@@ -32,4 +32,7 @@ Git järjestelmänä koostuu kolmesta osasta
 ### **Electron**
 - Electron on GitHubin kehittämä avoinen lähdekoodin ohjelmistokehys, joka sallii Chromiumiin pohjautuvien työpöytäohjelmien tekemisen JavaScript-kieltä käyttäen. Electronilla kehitetty ohjelma toimii Windowsilla, macOS:llä ja Linuxilla, eikä tarvetta useille koodikannoille ole.  
 ### **Atom**  
-- Atom on Electronilla kehitetty avoimen lähdekoodin monialustainen, ohjelmoijille tarkoitettu tekstieditori. Se on saatavilla Windowsille, macOS:lle ja Linuxille
+- Atom on Electronilla kehitetty avoimen lähdekoodin monialustainen, ohjelmoijille tarkoitettu tekstieditori. Se on saatavilla Windowsille, macOS:lle ja Linuxille  
+  
+:+1::+1::+1::+1::+1:  
+:octocat::octocat::octocat::octocat::octocat: 
